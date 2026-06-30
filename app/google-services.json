@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623575115375",
+    "project_id": "bvrit-smart-canteen",
+    "storage_bucket": "bvrit-smart-canteen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623575115375:android:120893a7303b704e60cf9a",
+        "android_client_info": {
+          "package_name": "com.example.bvritsmartcanteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNarspPSNR8ftYq3oyvkZ9G2FuEln4N-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
